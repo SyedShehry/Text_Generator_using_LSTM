@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+tensorflow # or torch, depending on the library used in the notebook
+jupyter
